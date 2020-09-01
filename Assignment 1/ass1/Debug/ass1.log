@@ -1,0 +1,6 @@
+﻿  ass1.cpp
+C:\Users\ted03\OneDrive\Desktop\2018 S2\MTRN2500\ass1\ass1\ass1.cpp(48,46): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ted03\OneDrive\Desktop\2018 S2\MTRN2500\ass1\ass1\ass1.cpp(51,49): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ted03\OneDrive\Desktop\2018 S2\MTRN2500\ass1\ass1\ass1.cpp(66,48): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ted03\OneDrive\Desktop\2018 S2\MTRN2500\ass1\ass1\ass1.cpp(69,51): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  ass1.vcxproj -> C:\Users\ted03\OneDrive\Desktop\2018 S2\MTRN2500\ass1\Debug\ass1.exe
